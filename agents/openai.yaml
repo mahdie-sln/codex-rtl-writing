@@ -1,0 +1,7 @@
+interface:
+  display_name: "Codex RTL Writing"
+  short_description: "Readable RTL prose with stable mixed English text"
+  default_prompt: "Use $codex-rtl-writing to format this RTL response safely while preserving mixed English text and technical content."
+
+policy:
+  allow_implicit_invocation: true
